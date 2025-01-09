@@ -7,8 +7,8 @@ This repository contains a comprehensive Power BI dashboard project that provide
 
 # Technologies Used:
 
-1. SQL for data preprocessing, cleaning, and deriving actionable insights 
-2. 2. Excel for data integration and preliminary analysis.
+1. SQL for data preprocessing, cleaning, and deriving actionable insights
+2. Excel for data integration and preliminary analysis.
 3. Power BI for creating interactive and visually appealing dashboards.
 
 # Power BI Dashboard Highlights:
