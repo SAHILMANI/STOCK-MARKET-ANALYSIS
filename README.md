@@ -22,9 +22,10 @@ This repository contains a comprehensive Power BI dashboard project that provide
 
 1. Analyze market trends for investment decision-making.
 2. Monitor the performance of specific stocks over time.
-3. Compare and contrast key financial indicators across multiple companies.
+4. Compare and contrast key financial indicators across multiple companies.
 
 # Screenshots:
+https://github.com/SAHILMANI/STOCK-MARKET-ANALYSIS/commit/fd84432b938d6330ecf9d64bd427225e9e55e7d5#diff-67b6a55e5b287dc1d9280dc1f32cb4bd25d966ebc8f589431f28445d311631b3
 
 
 
